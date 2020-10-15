@@ -12,4 +12,4 @@ Esperamos que su nuevo inicio de clases sea el mejor de todos por ello los docen
 
 ### Contact me
 
-[email@domain.com](mailto:ALTAMAR.educa@edu.ec)
+[ALTAMAR.educa@edu.ec]
