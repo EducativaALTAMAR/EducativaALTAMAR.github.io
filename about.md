@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Estamos ubicados frente al coliseo Regitnes Km. 1/2 .
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Esperamos que su nuevo inicio de clases sea el mejor de todos por ello los docentes del Instituto Educativo ALTAMAR les damos la bienvenida.
 
 ### Contact me
 
